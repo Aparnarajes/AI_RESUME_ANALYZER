@@ -1,0 +1,145 @@
+{
+    "Software Engineer": [
+        "AWS Certified Developer – Associate",
+        "Google Professional Cloud Developer",
+        "Microsoft Azure Developer Associate",
+        "Oracle Certified Java Programmer (OCPJP)",
+        "IBM Applied AI Professional Certificate",
+        "Certified Kubernetes Administrator (CKA)",
+        "Microsoft Certified: Azure Fundamentals",
+        "Docker Certified Associate (DCA)"
+    ],
+    "Data Scientist": [
+        "IBM Data Science Professional Certificate",
+        "TensorFlow Developer Certificate",
+        "Google Data Analytics Professional Certificate",
+        "Harvard Data Science Professional",
+        "Microsoft Certified: Azure AI Engineer",
+        "Stanford Machine Learning by Andrew Ng (Coursera)",
+        "AWS Certified Machine Learning – Specialty"
+    ],
+    "Full Stack Developer": [
+        "Meta Full Stack Developer Certification (Coursera)",
+        "IBM Full Stack Cloud Developer (Coursera)",
+        "Google IT Automation with Python",
+        "The Complete Web Developer Bootcamp (Udemy)",
+        "MERN Stack Developer Certification",
+        "React and Node.js Certification",
+        "Certified Laravel Developer"
+    ],
+    "Cybersecurity": [
+        "Certified Ethical Hacker (CEH)",
+        "CompTIA Security+",
+        "CISSP - Certified Information Systems Security Professional",
+        "Offensive Security Certified Professional (OSCP)",
+        "Certified Information Systems Auditor (CISA)",
+        "GIAC Penetration Tester (GPEN)",
+        "Certified Information Security Manager (CISM)"
+    ],
+    "Finance Analyst": [
+        "Chartered Financial Analyst (CFA)",
+        "Financial Modeling & Valuation Analyst (FMVA)",
+        "Certified Public Accountant (CPA)",
+        "FRM – Financial Risk Manager Certification",
+        "Investment Banking Certification (Wall Street Prep)",
+        "Google Sheets & Excel Data Analysis (Udemy)"
+    ],
+    "Marketing": [
+        "Google Ads Certification",
+        "HubSpot Content Marketing",
+        "Facebook Blueprint Certification",
+        "Digital Marketing Specialization (Coursera)",
+        "SEO Expert Certification (Moz Academy)",
+        "YouTube Marketing Certification",
+        "Advanced Social Media Strategy Certification"
+    ],
+    "Healthcare": [
+        "Certified Clinical Data Manager (CCDM)",
+        "Healthcare Data Analytics Certification",
+        "Medical Coding Certification (AAPC)",
+        "Certified Nursing Assistant (CNA)",
+        "Pharmacy Technician Certification (PTCB)",
+        "Medical Laboratory Technician Certification"
+    ],
+    "Project Management": [
+        "PMP – Project Management Professional",
+        "Certified Scrum Master (CSM)",
+        "Agile Certified Practitioner (PMI-ACP)",
+        "Lean Six Sigma Green Belt",
+        "PRINCE2 Certification",
+        "SAFe Agile Certification"
+    ],
+    "Human Resources": [
+        "SHRM Certified Professional (SHRM-CP)",
+        "Professional in Human Resources (PHR)",
+        "Talent Management Practitioner (TMP)",
+        "Advanced HR Analytics (Coursera)",
+        "Diversity & Inclusion Certification"
+    ],
+    "Cloud Computing": [
+        "AWS Certified Solutions Architect – Associate",
+        "Google Cloud Professional Architect",
+        "Microsoft Azure Solutions Architect Expert",
+        "Cloud Security Certification (CCSK)",
+        "Alibaba Cloud Certified Professional (ACP)"
+    ],
+    "Business Analyst": [
+        "Certified Business Analysis Professional (CBAP)",
+        "Google Business Intelligence Certification",
+        "SQL for Data Analytics (Udemy)",
+        "Tableau Desktop Specialist Certification",
+        "Power BI Data Analyst Certification"
+    ],
+    "Mechanical Engineer": [
+        "Certified SolidWorks Professional (CSWP)",
+        "Autodesk AutoCAD Certification",
+        "Lean Manufacturing Certification",
+        "Six Sigma Certification for Engineers",
+        "Machine Design & Engineering Certification"
+    ],
+    "Civil Engineer": [
+        "Certified Construction Manager (CCM)",
+        "Project Management for Construction (Coursera)",
+        "AutoCAD Civil 3D Certification",
+        "Structural Engineering Certification",
+        "Building Information Modeling (BIM) Certification"
+    ],
+    "Electrical Engineer": [
+        "Certified Electrical Technician",
+        "IEEE Electrical Engineering Certification",
+        "Power Systems Engineering Certification",
+        "Advanced Circuit Design Certification",
+        "IoT & Embedded Systems Certification"
+    ],
+    "Graphic Designer": [
+        "Adobe Certified Expert (Illustrator, Photoshop, InDesign)",
+        "UI/UX Design Certification (Google UX Design)",
+        "Figma Design Certification",
+        "Canva Graphic Design Specialization",
+        "Motion Graphics Certification"
+    ],
+    "Legal": [
+        "Certified Legal Professional (CLP)",
+        "Corporate Law Certification",
+        "Intellectual Property Law Certification",
+        "Cyber Law & Digital Evidence Certification"
+    ],
+    "Sales": [
+        "Certified Sales Professional (CSP)",
+        "Inbound Sales Certification (HubSpot)",
+        "Advanced Negotiation Skills Certification",
+        "B2B Sales Strategy (LinkedIn Learning)"
+    ],
+    "Education & Teaching": [
+        "TESOL/TEFL Certification (Teaching English)",
+        "Google Certified Educator",
+        "Special Education Certification",
+        "Early Childhood Education Certification"
+    ],
+    "Game Development": [
+        "Unity Certified Developer",
+        "Unreal Engine Certification",
+        "Game Design & Development (Coursera)",
+        "VR & AR Development Certification"
+    ]
+}
